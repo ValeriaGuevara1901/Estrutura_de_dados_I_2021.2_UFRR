@@ -1,0 +1,1 @@
+List_is_empty(L)
